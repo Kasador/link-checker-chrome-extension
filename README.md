@@ -6,7 +6,7 @@
 
 ### 🔗🚧 **Development Server**:
 
-## 🖥️ The Weather App
+## 🖥️ The Link Checker **_Google Chrome Entension_**
 
 Repository made to create/develop a small Google Chrome extension. Building & developing Link Checker, a Google Chrome extension in order to help & improve my workflow at my 9-5 job.
 
