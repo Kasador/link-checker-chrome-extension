@@ -32,3 +32,7 @@ Repository made to create/develop a small Google Chrome extension. Building & de
 **Available in the _Google Chrome Web Store_.**
 
 - Go to the [Chrome Web Store](https://chromewebstore.google.com/category/extensions) and download the _**Link Checker**_ extension.
+
+### **🔗 Verified developer account and uploaded test version of the extension.**
+
+![Image](https://github.com/user-attachments/assets/92488107-f462-4811-bfe1-ff33aa95290c)
