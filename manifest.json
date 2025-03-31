@@ -2,9 +2,17 @@
     "name": "Link Checker",
     "description": "Base Level Extension",
     "version": "1.0",
-    "manifest_version": 3,
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "content.js"
+    },
     "action": {
       "default_popup": "check.html",
-      "default_icon": "linkChecker_Logo.png"
-    }
+      "default_icon": "linkChecker_Logo.png",
+      "default_title": "Check Links"
+    },
+    "manifest_version": 3
   }
