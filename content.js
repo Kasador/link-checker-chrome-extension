@@ -23,15 +23,14 @@ const handleColor = () => {
 
 const handleLinks = () => {
     const links = document.querySelectorAll('a');
+    const linksFound = document.getElementById('links');
 
     links.forEach((link) => {
         console.log(link.href);
-
         let allLinks = document.createElement('a');
         allLinks.href = link.href;
         linksFound.appendChild(allLinks);
-        console.log(allLinks)
-        
+        console.log(allLinks);
     })
 }
 
